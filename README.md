@@ -39,7 +39,7 @@ default: &default
 ```
 
 7. **[For Windows User]** run `gem install bundler` and Run the bundle comman In the terminal `bundle`
-7. **[For Mac user]** Run the bundle comman In the terminal `bundle`
+7. **[For Mac user]** Run the bundle comman In the terminal `bundle --without production`
 8. **[Push it in github] (Follow steps)** 
 
 ```Bash
