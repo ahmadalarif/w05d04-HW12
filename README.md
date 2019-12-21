@@ -84,3 +84,4 @@ rails db:seed
 5. Please add your Project Idea: (https://docs.google.com/spreadsheets/d/1-sbz4FfsvwwU1PMg3wsVa9zpdf2RCYPSUvAmlkG4Dcw/edit#gid=0)
 https://github.com/ahmadalarif/w05d04-HW12.git
 https://bookapp-1.herokuapp.com/
+https://ahmadalarif.github.io/book_app/
